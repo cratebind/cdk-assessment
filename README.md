@@ -26,4 +26,4 @@ Requirements:
 - Write clean, maintainable code. Consider edge cases and error handling.
 - Please add Test cases with Jest or any other Testing framework for the lambda function or other parts you consider important to tests.
 
-Bonus points: Use RxJS for inside lambda function logic.
+##Bonus points: Use RxJS for inside lambda function logic.
